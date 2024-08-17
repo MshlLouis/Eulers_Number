@@ -5,13 +5,12 @@ use std::time::Instant;
 use num_bigint::BigInt;
 
 fn main() {                     //THIS PROGRAM ONLY GENERATES THE NUMERATOR AND DENOMINATOR,
-    //THE FINAL CALCULATION HAS TO BE DONE IN A SEPARATE PROGRAM
+                                //THE FINAL CALCULATION HAS TO BE DONE IN A SEPARATE PROGRAM
     let now = Instant::now();
     let reps = 100_000;         //max factorial, number of precise decimals will be (reps!)
     let mut numerator1: BigInt;
     let mut denominator1: BigInt;
-    let mut numerator2: BigInt;
-    let mut denominator2: BigInt;
+    let numerator2 = BigInt::from(1);
     let mut final_numerator: BigInt = BigInt::from(1);
     let mut final_denominator: BigInt = BigInt::from(1);
     let mut factorial: BigInt = BigInt::from(1);
@@ -25,16 +24,12 @@ fn main() {                     //THIS PROGRAM ONLY GENERATES THE NUMERATOR AND 
 
         factorial *= i;
 
-        numerator1 = final_numerator.clone();
-        denominator1 = final_denominator.clone();
+        numerator1 = final_numerator;
+        denominator1 = final_denominator;
+        numerator1 *= factorial.clone() / denominator1;
 
-        numerator2 = BigInt::from(1);
-        denominator2 = factorial.clone();
-
-        numerator1 *= denominator2.clone() / denominator1;
-
-        final_numerator = numerator1 + numerator2;
-        final_denominator = denominator2;
+        final_numerator = numerator1 + numerator2.clone();
+        final_denominator = factorial.clone();
 
     }
 
