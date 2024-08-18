@@ -3,7 +3,7 @@
 
 ## 1: Notes
 
-Pretty much my first/second project in Rust, translated from Java. Very inefficient, ~~~500.000 decimals in 10 seconds~~ now ~1.000.000 decimals in 10 seconds, runtime complexity O(n^2). Might improve in the future or not idk
+Pretty much my first/second project in Rust, translated from Java. Very inefficient, ~~500.000 decimals in 10 seconds~~ now ~1.000.000 decimals in 10 seconds, runtime complexity O(n^2). Might improve in the future or not idk
 
 ## 2: How To Use
 
