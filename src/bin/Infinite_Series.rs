@@ -9,7 +9,7 @@ fn main() {                     //THIS PROGRAM ONLY GENERATES THE NUMERATOR AND 
     let start_time = Instant::now();
     let mut now = Instant::now();
     let mut elapsed_since_last_percent;
-    let reps = 30_000;         //max factorial, number of precise decimals will be (#reps!)
+    let reps = 100_000;         //max factorial, number of precise decimals will be (#reps!)
     let numerator2 = BigInt::from(1);
     let mut final_numerator: BigInt = BigInt::from(1);
     let mut final_denominator: BigInt = BigInt::from(1);
@@ -54,4 +54,6 @@ fn write_file(number: &BigInt, path_name: &str) {
 
     let out = (&data[data_split_count * 100..data.len()]).to_owned() + "\n";
     file.write(out.as_bytes()).expect("Error");
+
+    println!("Finished writing file");
 }
