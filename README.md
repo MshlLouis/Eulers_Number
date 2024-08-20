@@ -7,4 +7,4 @@ Pretty much my first/second project in Rust, translated from Java. Very ineffici
 
 ## 2: How To Use
 
-Use either Spigot_Algorithm.rs or Infinite_Series.rs to calculate e. First algorithm is slower, but prints out the actual number, while the second algorithm only calculates the numerator and denominator. Use file calculateNumber.java to calculate e.
+Use either Spigot_Algorithm.rs or Infinite_Series.rs to calculate e. Infinite_Series.rs is a lot more efficient.
