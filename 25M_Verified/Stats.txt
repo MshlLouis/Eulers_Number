@@ -1,0 +1,408 @@
+1%
+Elapsed: 245.801ms
+Total elapsed: 245.802ms
+---------------------
+2%
+Elapsed: 768.977ms
+Total elapsed: 1.015s
+---------------------
+3%
+Elapsed: 1.334s
+Total elapsed: 2.349s
+---------------------
+4%
+Elapsed: 1.934s
+Total elapsed: 4.282s
+---------------------
+5%
+Elapsed: 2.539s
+Total elapsed: 6.822s
+---------------------
+6%
+Elapsed: 3.189s
+Total elapsed: 10.010s
+---------------------
+7%
+Elapsed: 3.848s
+Total elapsed: 13.858s
+---------------------
+8%
+Elapsed: 4.479s
+Total elapsed: 18.337s
+---------------------
+9%
+Elapsed: 5.140s
+Total elapsed: 23.478s
+---------------------
+10%
+Elapsed: 5.743s
+Total elapsed: 29.221s
+---------------------
+11%
+Elapsed: 6.404s
+Total elapsed: 35.625s
+---------------------
+12%
+Elapsed: 7.052s
+Total elapsed: 42.677s
+---------------------
+13%
+Elapsed: 7.784s
+Total elapsed: 50.462s
+---------------------
+14%
+Elapsed: 8.402s
+Total elapsed: 58.864s
+---------------------
+15%
+Elapsed: 9.037s
+Total elapsed: 67.901s
+---------------------
+16%
+Elapsed: 9.787s
+Total elapsed: 77.688s
+---------------------
+17%
+Elapsed: 10.446s
+Total elapsed: 88.134s
+---------------------
+18%
+Elapsed: 11.176s
+Total elapsed: 99.309s
+---------------------
+19%
+Elapsed: 11.785s
+Total elapsed: 111.094s
+---------------------
+20%
+Elapsed: 12.546s
+Total elapsed: 123.640s
+---------------------
+21%
+Elapsed: 13.216s
+Total elapsed: 136.856s
+---------------------
+22%
+Elapsed: 13.906s
+Total elapsed: 150.762s
+---------------------
+23%
+Elapsed: 14.601s
+Total elapsed: 165.363s
+---------------------
+24%
+Elapsed: 15.287s
+Total elapsed: 180.650s
+---------------------
+25%
+Elapsed: 16.088s
+Total elapsed: 196.738s
+---------------------
+26%
+Elapsed: 16.678s
+Total elapsed: 213.416s
+---------------------
+27%
+Elapsed: 17.443s
+Total elapsed: 230.859s
+---------------------
+28%
+Elapsed: 18.108s
+Total elapsed: 248.968s
+---------------------
+29%
+Elapsed: 18.814s
+Total elapsed: 267.781s
+---------------------
+30%
+Elapsed: 19.502s
+Total elapsed: 287.283s
+---------------------
+31%
+Elapsed: 20.259s
+Total elapsed: 307.542s
+---------------------
+32%
+Elapsed: 21.046s
+Total elapsed: 328.588s
+---------------------
+33%
+Elapsed: 21.877s
+Total elapsed: 350.465s
+---------------------
+34%
+Elapsed: 22.554s
+Total elapsed: 373.019s
+---------------------
+35%
+Elapsed: 24.470s
+Total elapsed: 397.489s
+---------------------
+36%
+Elapsed: 24.587s
+Total elapsed: 422.076s
+---------------------
+37%
+Elapsed: 24.684s
+Total elapsed: 446.760s
+---------------------
+38%
+Elapsed: 25.312s
+Total elapsed: 472.073s
+---------------------
+39%
+Elapsed: 26.015s
+Total elapsed: 498.088s
+---------------------
+40%
+Elapsed: 26.718s
+Total elapsed: 524.806s
+---------------------
+41%
+Elapsed: 27.332s
+Total elapsed: 552.138s
+---------------------
+42%
+Elapsed: 28.107s
+Total elapsed: 580.245s
+---------------------
+43%
+Elapsed: 29.406s
+Total elapsed: 609.651s
+---------------------
+44%
+Elapsed: 29.745s
+Total elapsed: 639.396s
+---------------------
+45%
+Elapsed: 30.242s
+Total elapsed: 669.638s
+---------------------
+46%
+Elapsed: 31.159s
+Total elapsed: 700.797s
+---------------------
+47%
+Elapsed: 31.837s
+Total elapsed: 732.633s
+---------------------
+48%
+Elapsed: 32.681s
+Total elapsed: 765.314s
+---------------------
+49%
+Elapsed: 33.436s
+Total elapsed: 798.750s
+---------------------
+50%
+Elapsed: 34.364s
+Total elapsed: 833.115s
+---------------------
+51%
+Elapsed: 35.076s
+Total elapsed: 868.191s
+---------------------
+52%
+Elapsed: 35.864s
+Total elapsed: 904.055s
+---------------------
+53%
+Elapsed: 37.214s
+Total elapsed: 941.269s
+---------------------
+54%
+Elapsed: 39.851s
+Total elapsed: 981.121s
+---------------------
+55%
+Elapsed: 39.141s
+Total elapsed: 1020.262s
+---------------------
+56%
+Elapsed: 38.367s
+Total elapsed: 1058.629s
+---------------------
+57%
+Elapsed: 38.979s
+Total elapsed: 1097.609s
+---------------------
+58%
+Elapsed: 39.818s
+Total elapsed: 1137.427s
+---------------------
+59%
+Elapsed: 40.761s
+Total elapsed: 1178.188s
+---------------------
+60%
+Elapsed: 41.341s
+Total elapsed: 1219.529s
+---------------------
+61%
+Elapsed: 43.797s
+Total elapsed: 1263.326s
+---------------------
+62%
+Elapsed: 45.903s
+Total elapsed: 1309.229s
+---------------------
+63%
+Elapsed: 45.000s
+Total elapsed: 1354.229s
+---------------------
+64%
+Elapsed: 44.823s
+Total elapsed: 1399.053s
+---------------------
+65%
+Elapsed: 45.565s
+Total elapsed: 1444.618s
+---------------------
+66%
+Elapsed: 46.241s
+Total elapsed: 1490.859s
+---------------------
+67%
+Elapsed: 47.022s
+Total elapsed: 1537.881s
+---------------------
+68%
+Elapsed: 48.495s
+Total elapsed: 1586.376s
+---------------------
+69%
+Elapsed: 51.027s
+Total elapsed: 1637.403s
+---------------------
+70%
+Elapsed: 49.886s
+Total elapsed: 1687.288s
+---------------------
+71%
+Elapsed: 50.492s
+Total elapsed: 1737.781s
+---------------------
+72%
+Elapsed: 51.452s
+Total elapsed: 1789.233s
+---------------------
+73%
+Elapsed: 52.531s
+Total elapsed: 1841.764s
+---------------------
+74%
+Elapsed: 53.577s
+Total elapsed: 1895.341s
+---------------------
+75%
+Elapsed: 54.254s
+Total elapsed: 1949.595s
+---------------------
+76%
+Elapsed: 55.424s
+Total elapsed: 2005.019s
+---------------------
+77%
+Elapsed: 56.541s
+Total elapsed: 2061.560s
+---------------------
+78%
+Elapsed: 57.230s
+Total elapsed: 2118.791s
+---------------------
+79%
+Elapsed: 60.039s
+Total elapsed: 2178.830s
+---------------------
+80%
+Elapsed: 60.027s
+Total elapsed: 2238.857s
+---------------------
+81%
+Elapsed: 61.350s
+Total elapsed: 2300.206s
+---------------------
+82%
+Elapsed: 62.134s
+Total elapsed: 2362.340s
+---------------------
+83%
+Elapsed: 62.664s
+Total elapsed: 2425.004s
+---------------------
+84%
+Elapsed: 63.956s
+Total elapsed: 2488.959s
+---------------------
+85%
+Elapsed: 65.180s
+Total elapsed: 2554.139s
+---------------------
+86%
+Elapsed: 66.333s
+Total elapsed: 2620.472s
+---------------------
+87%
+Elapsed: 67.746s
+Total elapsed: 2688.217s
+---------------------
+88%
+Elapsed: 69.095s
+Total elapsed: 2757.313s
+---------------------
+89%
+Elapsed: 70.177s
+Total elapsed: 2827.489s
+---------------------
+90%
+Elapsed: 71.405s
+Total elapsed: 2898.894s
+---------------------
+91%
+Elapsed: 72.686s
+Total elapsed: 2971.580s
+---------------------
+92%
+Elapsed: 73.870s
+Total elapsed: 3045.450s
+---------------------
+93%
+Elapsed: 75.051s
+Total elapsed: 3120.501s
+---------------------
+94%
+Elapsed: 76.343s
+Total elapsed: 3196.844s
+---------------------
+95%
+Elapsed: 77.522s
+Total elapsed: 3274.365s
+---------------------
+96%
+Elapsed: 78.214s
+Total elapsed: 3352.579s
+---------------------
+97%
+Elapsed: 79.649s
+Total elapsed: 3432.229s
+---------------------
+98%
+Elapsed: 80.950s
+Total elapsed: 3513.178s
+---------------------
+99%
+Elapsed: 81.932s
+Total elapsed: 3595.111s
+---------------------
+100%
+Elapsed: 83.349s
+Total elapsed: 3678.460s
+---------------------
+Finished writing file in: 1080.774s
+Finished writing file in: 1082.145s
+Reading files into Strings took: 258.613ms
+Calculating result took: 1.219s
+Finished writing result in: 4.724s
+---------------------
+Done
+Elapsed: 4769.631s
