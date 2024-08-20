@@ -1,9 +1,0 @@
-Rust File:
-Calculating numerator and denominator: 2422.937s
-Writing to files: 1371.186s
-
-Java File:
-Convert String to BigDecimal : 6201.229s
-Calculating final number: 61.544s
-Converting final number to String: 48.891s
-Printing result to file: 0.6647808s
