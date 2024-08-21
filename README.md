@@ -13,4 +13,4 @@ The src folder contains three files:
 2. Infinite_Series_Float.rs: Represents data as Floats, decently fast (~1M digits in 11.5s), but huge advantage for converting number to string (merely seconds for 25M digits)
 3. Infinite_Series.rs: Represents data as BigInt, fastest algorithm (~1M digits in 4s), but very slow in converting number to string (~1100s for 25M digits)
 
-The best algorithm is Infinite_Series.rs, although conversion from number to string is slow, it's only ~1/3.5 of calculation time which is >3x faster than Floats, hence mmaking it faster overall.
+The best algorithm is Infinite_Series.rs, although conversion from number to string is slow, it's only ~1/3.5 of calculation time which is >3x faster than Floats, hence making it faster overall.
